@@ -5,3 +5,26 @@
     margin: 0;
     padding: 0;
 }
+
+section {
+    margin-bottom: 20px;
+}
+
+
+.blue {
+    background-color: #006cfa;
+}
+
+.green {
+    background-color: #00e165;
+}
+
+.blue, .green {
+    padding: 10px;
+    margin: 2px;
+    text-align: center;
+    color: white;
+    font-size: small;
+    min-height: 40px;
+}
+
